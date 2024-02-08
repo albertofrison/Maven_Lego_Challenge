@@ -35,6 +35,7 @@ unlink(temp)
 # PRELIMINARY EXPLORATION OF THE DATA SET
 summary (lego_data)
 
+# add here boxplots
 
 
 ################################################################################
